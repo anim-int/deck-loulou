@@ -103,7 +103,7 @@ My super karuta deck
 &emsp;**Anime :** [Magi](https://anilist.co/anime/21394) - ED 1  
 &emsp;**Artiste(s) :** Nogizaka46  
 
-<img src="Visuals/lou_magi_ed-1_yubi-bōenkyō.png" alt="Magi ED 1 Yubi Bōenkyō" width="250"/>  
+<img src="Visuals/lou_magi_ed-1_yubi-boenkyo.png" alt="Magi ED 1 Yubi Bōenkyō" width="250"/>  
 
 ### [17 - Litterature](https://www.youtube.com/watch?v=N1Vdi3c7uhc)
 &emsp;**Anime :** [Majo no Tabitabi](https://anilist.co/anime/112609) - OP 1  
